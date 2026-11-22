@@ -1,17 +1,17 @@
 {
-  "version": "3.2.0",
+  "version": "3.2.1",
   "description": "Compile .frasm network traffic code into .pcap/.pcapng captures and reverse captures back to .frasm across 81 L2-L7 protocols",
   "homepage": "https://github.com/SteveWinschel/FrameAssembly",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/SteveWinschel/FrameAssembly/releases/download/v3.2.0/frameassembly-windows-x64.zip",
-      "hash": "4f3ca0f3edf0ac978fcd7dbad0b1a75523c2846d737310a0276e7bf0cf81b739",
+      "url": "https://github.com/SteveWinschel/FrameAssembly/releases/download/v3.2.1/frameassembly-windows-x64.zip",
+      "hash": "a951b4d46fcc687f1830c2e31bf71a30deebacbdef54e931489c32f66fcb83ee",
       "extract_dir": "frameassembly-windows-x64"
     },
     "arm64": {
-      "url": "https://github.com/SteveWinschel/FrameAssembly/releases/download/v3.2.0/frameassembly-windows-arm64.zip",
-      "hash": "0ba822a0e1a88f7d665cb4517f0b09ae9ff8eb76e49d9b1f06c54b66db7de2a6",
+      "url": "https://github.com/SteveWinschel/FrameAssembly/releases/download/v3.2.1/frameassembly-windows-arm64.zip",
+      "hash": "be12c5658ccc181a4c8f73f3f2e87fc3171af3edd7035dc7433681d52b3a5028",
       "extract_dir": "frameassembly-windows-arm64"
     }
   },
